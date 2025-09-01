@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio
 
 This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
@@ -98,3 +99,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Happy coding and enjoy building your professional portfolio!
+=======
+# Anuragg24.github.io
+>>>>>>> 995d9a553e815f77b71de0e75cdfbb6a2107f759
