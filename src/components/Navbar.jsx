@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import { Sun, Moon, Menu, X } from "lucide-react";
-import { useTheme } from "../context/themeContext";
+import { useTheme } from "../context/ThemeContext";
 
 export const Navbar = () => {
   const { theme, toggleTheme } = useTheme();
