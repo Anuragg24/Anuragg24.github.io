@@ -26,11 +26,11 @@ export const Sidebar = () => {
         </h2>
         <p className="text-gray-600 dark:text-gray-400 text-sm mb-1
                       transition-colors duration-300 hover:text-blue-400 dark:hover:text-cyan-300">
-          📧 anurag@example.com
+          📧 avsaraswat24@gmail.com
         </p>
         <p className="text-gray-600 dark:text-gray-400 text-sm mb-1
                       transition-colors duration-300 hover:text-blue-400 dark:hover:text-cyan-300">
-          📞 +91 9876543210
+          📞 +91 9521423997
         </p>
         <p className="text-gray-600 dark:text-gray-400 text-sm
                       transition-colors duration-300 hover:text-blue-400 dark:hover:text-cyan-300">

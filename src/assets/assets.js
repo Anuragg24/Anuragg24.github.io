@@ -10,7 +10,7 @@ import mern from"./mern.png";
 import springboot from"./spring.png";
 import postgresql from"./postgresql.png";
 import mysql from"./mysql.png";
-import avatar from "./avatar.png"
+import avatar from "./avatar.jpeg"
 
 const asset = {
   cpp,

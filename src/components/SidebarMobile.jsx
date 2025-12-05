@@ -19,10 +19,10 @@ const SidebarMobile = () => {
             Anurag Saraswat
           </h2>
           <p className="text-gray-600 dark:text-gray-300 text-sm">
-            📧 anurag@example.com
+            📧 avsaraswat24@gmail.com
           </p>
           <p className="text-gray-600 dark:text-gray-300 text-sm">
-            📞 +91 9876543210
+            📞 +91 9521423997
           </p>
           <p className="text-gray-600 dark:text-gray-300 text-sm">
             📍 Jaipur, India
